@@ -1,5 +1,2 @@
-# omsurve.github.io
+**COURSERA COURSE**
 
-COURSERA
-
-13/6/2021 - MODULE 2
